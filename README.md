@@ -23,13 +23,13 @@ I used Jupyter Notebook to extract the information from the 1000 Genomes Project
 
 **Results and Discussion**
 
-*Sickle Cell Disease* 
+*Sickle Cell Disease:* 
 I found that 859 samples out of 2504 carried the sickle cell variant, and they belonged only to American and African populations. Thus, I further analyzed only those two populations, and determined that of those 859 carriers, 96.35% were of the African superpopulation and 3.65% were of the American superpopulation.  
 
-*Beta Thalassemia*
+*Beta Thalassemia:*
 I found that only one sample in the GRCh38 data contained the variant for beta thalassemia. This individual belonged to the Peruvian population. Since there was only one individual, I decided not to create a graph for this disease.  
 
-*Hereditary Hemochromatosis*
+*Hereditary Hemochromatosis:*
 For the first variant, I determined that 61 samples carried the variant. Of these, 68.85% were of European descent, 22.95% were of American descent, 4.92% were of African descent, and 3.28% were of South Asian descent. Notably, each of the five European populations had carriers of the variant.  
 336 samples were carriers of the milder second variant. 46.13% were of European descent, 20.54% were of South Asian descent, 16.96% were of American descent, 8.63% were of African descent, and 7.74% were of East Asian descent. Once again, each of the five European populations had carriers of this variant. Another notable finding was that 9 individuals of Peruvian descent carried the variant as well.  
 
